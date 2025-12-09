@@ -42,15 +42,16 @@ A comfortable dark interface for easy use anytime.
 ```js
 ratio = (salary - MIN_SALARY) / (MAX_SALARY - MIN_SALARY)
 percent = MIN_PERCENT - ratio * (MIN_PERCENT - MAX_PERCENT)
-
+```
 
 ### 🚀 Project Setup
+```bash
 git clone https://github.com/your-user/fin-scope-planner.git
 cd fin-scope-planner
 npm install
 npm run dev
+```
+
 
 ### 📜 License
-
 This project is distributed under the MIT License, allowing free use, modification, and distribution.
-
